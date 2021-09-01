@@ -1,0 +1,161 @@
+
+.panelformulario{
+position: relative;
+
+background-color: #E7E7E7;
+width: 1300px;
+height: 530px;
+
+margin: 0 auto;
+border: black 2px solid;
+
+
+
+}
+
+
+ #formulario2{
+position: absolute;
+
+margin-top: 100px;
+left: 200px;
+
+
+
+}
+
+
+.sesionimage{
+position: absolute;
+
+width: 600px;
+height: 530px;
+
+left: 700px;
+
+top: 0px;
+
+}
+
+#text0{
+	position: absolute;
+width: 300px;
+
+height: 30px;
+left: 45px;
+top: 100px;
+
+border-radius:10px;
+background-color:#f6f6f6;
+}
+
+#password{
+	position: absolute;
+width: 300px;
+
+height: 30px;
+left: 45px;
+top: 200px;
+border-radius:10px;
+background-color:#f6f6f6;
+}
+
+#enviar0{
+position: absolute;
+top: 280px;
+width: 310px;
+left: 45px;
+height: 40px;
+border-radius:5px;
+
+}
+
+
+#formularitext0{
+position: absolute;
+top: 40px;
+width: 300px;
+left: 50px;
+
+}
+
+#formularitext1{
+
+position: absolute;
+top: 140px;
+width: 300px;
+left: 50px;
+}
+
+
+.piedepagina{
+
+position: relative;	
+}
+
+
+.iniciasesion{
+
+position: absolute;
+
+top :-35px;
+left: 90px;
+width: 300px;	
+font-size: 40px;
+}
+
+
+
+.cuentapregunta{
+position: absolute;
+top: 320px;
+left: 40px;
+width: 200px;
+
+
+}
+
+#botonregistrarse{
+position: absolute;
+
+top: 336px;
+left: 190px;
+
+
+}
+
+.cuadrosesion{
+	position: absolute;
+
+width: 400px;
+height: 400px;
+  display: flex;
+left: -60px;
+top: -30px;
+background-color: ghostwhite;
+border-radius:10px;
+}
+
+
+
+.error404{
+
+  width: 900px; height: 500px;
+  position: absolute;
+
+  left: 200px;
+
+}
+
+.disculpa{
+
+position: relative;
+
+top: 540px;
+}
+
+.paginaprincipal{
+position: relative;
+  top: 505px;
+  left: 410px;
+}
